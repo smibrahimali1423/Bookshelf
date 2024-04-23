@@ -1,7 +1,11 @@
 # Project Title
 
-Bookshelf App
-## Technologies Used
+Bookshelf
+
+##Description
+Bookshelf is an Android application designed to simplify the process of discovering and exploring books. With Bookshelf, users can  search for books based on their interests, genres, or specific titles. Once a book is found, users can delve deeper into its details, including author information, publisher details, descriptions, and more.
+
+### Technologies Used
 
 - Kotlin
 - Jetpack Compose
@@ -12,32 +16,23 @@ Bookshelf App
 
 ## Getting Started
 
-Instructions on how to get a copy of the project up and running on your local machine.
+1. Click on 'Code'. 
+2. In the popup, click the 'Download ZIP' button.
+3. Unzip the file.
+4. Start 'Android Studio'.
+5. In the 'Welcome to Android Studio window', click 'Open'.
+6. Click the 'Run' button to build and run the app
 
 ### Prerequisites
-
+1. Make sure 'Android Studio' is installed on your computer.
+2. An Android phone or virtual device with API 24 or above.
 List of prerequisites required to run the project.
 
-### Installation
-
-Step-by-step guide on how to install and set up the project.
-
-## Usage
-
-Instructions on how to use the project or its features.
-
-## Contributing
-
-Guidelines for contributing to the project.
-
-## License
-
-Information about the project's license.
 
 ## Acknowledgements
 
-Credits to individuals or organizations that contributed to the project.
+Developed by: Syed Mohammed Ibrahim Ali
 
 ## Contact
 
-Information on how to contact the project maintainer.
+Email id: ibrahimali@tuta.io
