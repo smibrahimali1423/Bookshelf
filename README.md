@@ -14,9 +14,9 @@ Bookshelf is an Android application designed to simplify the process of discover
 ## Screenshots
 <div style="display: flex;">
 
-<img src="ss1.jpeg" alt="Screenshot 1" width="400" style="margin-right: 20px;">
-<img src="ss2.jpeg" alt="Screenshot 2" width="400" style="margin-right: 20px;">
-<img src="ss3.jpeg" alt="Screenshot 3" width="400">
+<img src="ss1.jpeg" alt="Screenshot 1" width="250" style="margin-right: 50px;">
+<img src="ss2.jpeg" alt="Screenshot 2" width="250" style="margin-right: 50;">
+<img src="ss3.jpeg" alt="Screenshot 3" width="250">
 </div>
 
 ## Getting Started
