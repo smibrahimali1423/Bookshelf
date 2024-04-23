@@ -1,8 +1,5 @@
-# Project Title
+# Bookshelf
 
-Bookshelf
-
-##Description
 Bookshelf is an Android application designed to simplify the process of discovering and exploring books. With Bookshelf, users can  search for books based on their interests, genres, or specific titles. Once a book is found, users can delve deeper into its details, including author information, publisher details, descriptions, and more.
 
 ### Technologies Used
@@ -13,6 +10,11 @@ Bookshelf is an Android application designed to simplify the process of discover
 - Retrofit
 - Coil
 - Navigation Component
+
+## Screenshots
+![Screenshot 1](ss/screenshot1.png)
+![Screenshot 2](ss/screenshot2.png)
+![Screenshot 3](ss/screenshot3.png)
 
 ## Getting Started
 
