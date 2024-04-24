@@ -14,7 +14,7 @@ Once a book is found, users can delve deeper into its details, including author 
 6. Coil
 7. Navigation Component
 
-- ### Architecture followed
+### Architecture followed
 MVVM (Model-View-ViewModel) architecture pattern
 
 
