@@ -1,15 +1,17 @@
 # Bookshelf
 
-Bookshelf is an Android application designed to simplify the process of discovering and exploring books. With Bookshelf, users can  search for books based on their interests, genres, or specific titles. Once a book is found, users can delve deeper into its details, including author information, publisher details, descriptions, and more.
+**Bookshelf** is an Android application designed to simplify the process of discovering and exploring books. With **Bookshelf**, users can  search for books based on their interests, genres, or specific titles. 
+
+Once a book is found, users can delve deeper into its details, including author information, publisher details, descriptions, and more.
 
 ### Technologies Used
 
-- Kotlin
-- Jetpack Compose
-- Ktor
-- Retrofit
-- Coil
-- Navigation Component
+1. Kotlin
+2. Jetpack Compose
+3. Ktor
+4. Retrofit
+5. Coil
+5. Navigation Component
 
 - ### Architecture followed
 MVVM (Model-View-ViewModel) architecture pattern
