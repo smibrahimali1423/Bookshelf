@@ -8,10 +8,11 @@ Once a book is found, users can delve deeper into its details, including author 
 
 1. Kotlin
 2. Jetpack Compose
-3. Ktor
-4. Retrofit
-5. Coil
-5. Navigation Component
+3. Coroutines
+4. Ktor
+5. Retrofit
+6. Coil
+7. Navigation Component
 
 - ### Architecture followed
 MVVM (Model-View-ViewModel) architecture pattern
