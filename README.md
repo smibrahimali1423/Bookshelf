@@ -27,7 +27,7 @@ Bookshelf is an Android application designed to simplify the process of discover
 3. Unzip the file.
 4. Start 'Android Studio'.
 5. In the 'Welcome to Android Studio window', click 'Open'.
-6. Click the 'Run' button to build and run the app
+6. Click the 'Run' button to build and run the app.
 
 ### Prerequisites
 1. Make sure 'Android Studio' is installed on your computer.
