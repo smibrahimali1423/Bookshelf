@@ -39,7 +39,6 @@ MVVM (Model-View-ViewModel) architecture pattern
 ### Prerequisites
 1. Make sure 'Android Studio' is installed on your computer.
 2. An Android phone or virtual device with API 24 or above.
-List of prerequisites required to run the project.
 
 
 ## Acknowledgements
