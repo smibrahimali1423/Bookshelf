@@ -11,6 +11,10 @@ Bookshelf is an Android application designed to simplify the process of discover
 - Coil
 - Navigation Component
 
+- ### Architecture followed
+MVVM (Model-View-ViewModel) architecture pattern
+
+
 ## Screenshots
 <div style="display: flex;">
     <img src="ss1.jpeg" alt="Screenshot 1" width="240" hspace="5";">
