@@ -22,8 +22,7 @@ MVVM (Model-View-ViewModel) architecture pattern
 <div style="display: flex;">
     <img src="ss1.jpeg" alt="Screenshot 1" width="240" hspace="5";">
     <img src="ss2.jpeg" alt="Screenshot 2" width="240" hspace="5";">
-    <img src="sss3.jpeg" alt="Screenshot 4" width="240"hspace="5";">
-    <img src="ss4.jpeg" alt="Screenshot 3" width="240">
+    <img src="sss3.jpeg" alt="Screenshot 4" width="240">
 </div>
 
 
